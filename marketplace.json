@@ -2,8 +2,8 @@
   "label": "Liquid Fill Gauge Visualization",
   "category_label": "Plug-ins",
   "branding": {
-    "image_uri": "https://wwwstatic-a.lookercdn.com/blocks/logos/aws.png",
-    "tagline": "This diagram displays a liquid fill gauge, displaying either a single measure value as a percentage, or a comparison of one measure to another measure."
+    "image_uri": "https://looker.com/assets/img/images/blocks/screenshots/viz/liquid/liquid.gif",
+    "tagline": "Calculate your progress towards a goal with the Liquid Fill Gauge Visualization."
   },
 
     "constants": {
