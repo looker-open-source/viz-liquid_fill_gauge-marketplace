@@ -1,6 +1,6 @@
 #  Liquid Fill Gauge
 
-**This is not an officially supported Google product.**
+This is not an officially supported Google product. This project is not eligible for the [Google Open Source Software Vulnerability Rewards Program](https://bughunters.google.com/open-source-security).
 
 This diagram displays a liquid fill gauge (LFG), displaying either a single measure value as a percentage, or a comparison of one measure to another measure.
 
